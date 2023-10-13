@@ -4,7 +4,7 @@
 in this project used the harvester in kali linux to harvest crediatials using a cloned site
 ### step 1
 
- <img src ="">
+ <img src ="https://github.com/faithit/-Credential-Harvesting-Using-Site-Cloning/blob/main/imaages/file1.PNG?raw=true">
 
 
 
